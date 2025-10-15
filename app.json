@@ -1,0 +1,25 @@
+{
+  "name": "OmniMind AI Assistant",
+  "description": "Global AI Assistant with Multi-Engine Search",
+  "repository": "https://github.com/yourusername/omnimind",
+  "logo": "https://via.placeholder.com/200x200/00d9ff/ffffff?text=OmniMind",
+  "keywords": ["ai", "assistant", "search", "chatbot"],
+  "stack": "container",
+  "env": {
+    "PYTHON_VERSION": {
+      "description": "Python version",
+      "value": "3.11.0"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}

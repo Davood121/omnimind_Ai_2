@@ -1,0 +1,49 @@
+{
+  "history": [
+    {
+      "timestamp": 1760461214.6818917,
+      "user": "hello",
+      "assistant": "Hello! How can I assist you today?"
+    },
+    {
+      "timestamp": 1760461266.1993318,
+      "user": "what can you do ?",
+      "assistant": "As OmniMind, I can assist with various tasks such as providing information, answering questions, offering advice, helping with reminders, setting alarms, playing music, controlling smart home devices (with your permission), and more. I'm here to help make your life easier and more convenient wherever you are! How can I assist you today?"
+    },
+    {
+      "timestamp": 1760531675.5941653,
+      "user": "hello",
+      "assistant": "Hello! How can I assist you today?"
+    },
+    {
+      "timestamp": 1760531852.0290751,
+      "user": "hi",
+      "assistant": "Hello! How can I assist you today?"
+    },
+    {
+      "timestamp": 1760531868.2364593,
+      "user": "what is google ",
+      "assistant": "Google is a multinational technology company that specializes in providing services related to internet searches, email (Gmail), cloud storage (Google Drive), and more. It was founded by Larry Page and Sergey Brin in 1998."
+    },
+    {
+      "timestamp": 1760531908.4853256,
+      "user": "what is the current news ",
+      "assistant": "📰 Latest News on latest:\n\n1. Latest News\n2. India News | Today's latest updates and breaking news from India, …\n3. Get Latest News, India News, Breaking News, Today's News\n4. Today's Top News Stories, Latest News Today - NDTV.com\n5. Latest Entertainment News | Bollywood News | Hollywood News – …\n6. Latest Videos – Watch Latest Latest Video Clips Online - NDTV.com\n7. India News Latest - NDTV.com\n"
+    },
+    {
+      "timestamp": 1760532180.6258996,
+      "user": "ok  what is death ",
+      "assistant": "Death refers to the end of a living being's life, typically marked by the cessation of vital functions such as heartbeat and respiration. It is often seen as an inevitable part of the natural cycle of life and death in many cultures and belief systems. However, it can also be understood more scientifically as the termination of biological function at the cellular level."
+    },
+    {
+      "timestamp": 1760532231.5709348,
+      "user": "what  the main case of human death happends ",
+      "assistant": "The main cause of death in humans is typically related to cardiovascular diseases, which include conditions such as heart disease and stroke. These can be influenced by factors like high blood pressure, high cholesterol, diabetes, obesity, smoking, and lack of physical activity. Other significant causes include cancer, respiratory diseases, and accidents or injuries."
+    },
+    {
+      "timestamp": 1760532360.4423547,
+      "user": "what is the Ai latest news ",
+      "assistant": "📰 Unable to fetch news about latest at the moment."
+    }
+  ]
+}

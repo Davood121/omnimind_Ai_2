@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: omnimind
+    env: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    region: oregon
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: PYTHON_VERSION
+        value: 3.11.0
+    buildCommand: echo "Building OmniMind..."
+    startCommand: python cloud_server.py
