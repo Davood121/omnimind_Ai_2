@@ -30,3 +30,9 @@ coverage.xml
 .mypy_cache
 .pytest_cache
 .hypothesis
+
+# Old server files (removed)
+server.py
+simple_server.py
+fast_ai_server.py
+api_server_8002.py

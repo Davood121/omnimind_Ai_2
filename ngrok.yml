@@ -1,0 +1,9 @@
+version: "2"
+authtoken: YOUR_NGROK_TOKEN_HERE
+tunnels:
+  omnimind:
+    addr: omnimind:8000
+    proto: http
+    schemes: [https, http]
+    hostname: omnimind-ai.ngrok-free.app  # Optional: custom subdomain (requires paid plan)
+web_addr: 0.0.0.0:4040
